@@ -14,7 +14,7 @@ A news-delivering website where users can read categorized news efficiently.
  
 
 ## 📫 Connect with me
-<a href="https://www.linkedin.com/in/aayush-chalise"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush chalise" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/aayush-chalise-a94b522bb/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush chalise" height="30" width="40" /></a>  
 
 ---
 
