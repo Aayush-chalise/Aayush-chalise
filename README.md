@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** and a student learning software development. I lo
 ## 🛠 Current Project
 ### [NewsMania](https://newsmania-frontend.onrender.com/)  
 A news-delivering website where users can read categorized news efficiently. 
-### [Portfolio]
+### Portfolio
  
 
 ## 📫 Connect with me
