@@ -22,5 +22,7 @@ A news-delivering website where users can read categorized news efficiently.
 ✨ I’m always open to collaborating on interesting projects and learning new things!
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-chalise)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush-chalise&show_icons=true&theme=github_dark)
+
 
