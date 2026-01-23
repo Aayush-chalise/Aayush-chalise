@@ -23,7 +23,7 @@ A news-delivering website where users can read categorized news efficiently.
 
  
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-chalise&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=Aayush-chalise&theme=gotham)](https://git.io/streak-stats)
 
 
 
