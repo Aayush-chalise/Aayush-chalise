@@ -12,6 +12,7 @@ I'm a **Full Stack Developer** and a student learning software development. I lo
 ### [NewsMania](https://newsmania-frontend.onrender.com/)  
 A news-delivering website where users can read categorized news efficiently. 
 ### [Portfolio](https://github.com/Aayush-chalise/portfolio.git)
+Coming soon...
  
 
 ## 📫 Connect with me
