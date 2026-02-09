@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** and a student learning software development. I lo
 - **Frontend:** JavaScript, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** PostgreSQL  
-- **Other Interests:** Artificial Intelligence (learning phase)  
+   
 
 ## 🛠 Current Project
 ### [NewsMania](https://newsmania-frontend.onrender.com/)  
