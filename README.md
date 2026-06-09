@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aayush Chalise
 
-I'm a **Full Stack Developer** and a student learning software development. I love building web applications and exploring new technologies. Currently, I'm working on my project **NewsMania**, a news-delivering website.  
+I'm a **Full Stack Developer** and a student learning software development. I love building web applications and exploring new technologies. 
 
 ## 💻 Tech Stack
 - **Frontend:** JavaScript, React, Tailwind CSS  
