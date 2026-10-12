@@ -3,7 +3,7 @@
 I'm a **Full Stack Developer** and a student learning software development. I love building web applications and exploring new technologies. 
 
 ## 💻 Tech Stack
-- **Frontend:** JavaScript, React, Tailwind CSS  
+- **Frontend:** JavaScript, React, NextJs, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** PostgreSQL  
    
