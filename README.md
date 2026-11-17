@@ -9,7 +9,6 @@ I'm a **Full Stack Developer** and a student learning software development. I lo
    
 
  
-### [Portfolio](https://portfolio-jr5s.onrender.com)
  
  
 
